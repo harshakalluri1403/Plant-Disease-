@@ -1,0 +1,16 @@
+2024-08-07 14:30:25.190211: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2024-08-07 14:30:25.190263: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2024-08-07 14:30:29.925049: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2024-08-07 14:30:29.925095: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+usage: train_model.py [-h] --epochs EPOCHS
+train_model.py: error: unrecognized arguments: > output_100.log 2>&1 &
+usage: train_model.py [-h] --epochs EPOCHS
+train_model.py: error: unrecognized arguments: > output_200.log 2>&1 &
+2024-08-07 14:30:34.847385: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2024-08-07 14:30:34.847450: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+usage: train_model.py [-h] --epochs EPOCHS
+train_model.py: error: unrecognized arguments: > output_500.log 2>&1 &
+2024-08-07 14:30:39.857323: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2024-08-07 14:30:39.857369: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+usage: train_model.py [-h] --epochs EPOCHS
+train_model.py: error: unrecognized arguments: > output_1000.log 2>&1 &
