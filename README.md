@@ -66,5 +66,7 @@ This section discusses the performance of three deep learning models—VGG16, Mo
    ```
 2. Open your web browser and go to http://localhost:8501.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+## Research Paper Contributed to IIIT Kurnool
+
+[Predicting the Disease and Recommending Suitable Pesticides](https://raw.githubusercontent.com/harshakalluri1403/Plant-Disease-/main/Plantdisease.pdf)
+
